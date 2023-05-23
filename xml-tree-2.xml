@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital>
+	<entry1>
+		<patient>
+			<name>
+				Bob
+			</name>
+			<study>
+				<id>
+					232
+				</id>
+				<description>
+					Image CT
+				</description>
+			</study>
+			<relatives>
+				<mother>
+					Alice
+				</mother>
+			</relatives>
+		</patient>
+	</entry1>
+	<entry2>
+		<study>
+			<patient>
+				<name>
+					Rob
+				</name>
+				<mother>
+					Alic
+				</mother>
+			</patient>
+			<id>
+				222
+			</id>
+			<description>
+				CT Image
+			</description>
+		</study>
+	</entry2>
+</hospital>

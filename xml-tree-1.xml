@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playstore>
+	<title>
+		MZ Muzic Player
+	</title>
+	<developer>
+		Harry David
+	</developer>
+	<ceo>
+		Larry David
+	</ceo>
+	<releasedate>
+		02/2/2022
+	</releasedate>
+	<music>
+		<song1>
+			Dream On
+		</song1>
+		<song2>
+			Arcade
+		</song2>
+	</music>
+</playstore>
